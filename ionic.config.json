@@ -1,0 +1,7 @@
+{
+  "name": "netflix-ui-clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
